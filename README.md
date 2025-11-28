@@ -16,6 +16,8 @@ This project focuses on using Excel to clean, organize, analyze, and visualize b
 - Final Dashboard File 
 - Screenshots of Dashboard
 
-  ## Dashboard
+## Dashboard
 
-  - <a href = "
+  ![Dashboard Screenshot](https://github.com/username/repo-name/assets/12345678/abcd1234)
+
+
