@@ -18,6 +18,4 @@ This project focuses on using Excel to clean, organize, analyze, and visualize b
 
 ## Dashboard
 
-  ![Dashboard Screenshot](https://github.com/username/repo-name/assets/12345678/abcd1234)
-
-
+![Sales and profit](https://github.com/user-attachments/assets/5cba99ab-3d63-4737-b235-e4dfe688ba88)
